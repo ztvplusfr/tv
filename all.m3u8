@@ -9,6 +9,5 @@ https://mtd-adn.otteravision.com/mtd/adn/adn_720p_high.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e34ac4a270700077b1f32/master.m3u8
 #EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
 http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
-#EXTINF:1, tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/thumbnail.jpg",	
-Pluto TV Junior
+#EXTINF:1, tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/thumbnail.jpg",Pluto TV Junior
 https://list.iptvcat.com/my_list/s/d86989c62dd01a73c5522b328e930f58.m3u8
